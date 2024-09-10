@@ -2,7 +2,7 @@
  🖥️ Projeto LittleBoxd
 </h1>
 <p align="center">
- <img src="https://i.imgur.com/at6AvEt.png" width="500"  /> 
+ <img src="https://i.imgur.com/uDvdhIH.png" />
 </p>
 
 ##
