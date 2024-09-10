@@ -5,6 +5,7 @@
  <img src="https://i.imgur.com/at6AvEt.png" width="500"  /> 
 </p>
 
+<p>LittleBoxd é uma aplicação desenvolvida em Java que permite a avaliação e a criação de listas de filmes</p>
 ##
 
 - Projeto desenvolvido para conclusão da cadeira de POO.
