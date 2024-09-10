@@ -23,6 +23,7 @@
 ## Para testar os códigos:
 - Para executar o projeto você vai precisar do [Java](https://www.java.com/pt-BR/download/) na versão 17 ou superior
 - __Clone este repositório__, para isto você vai precisar do [Git](https://git-scm.com) instalado em seu computador
+- Os arquivos utilizados para teste de persistência podem ser encontrados na pasta raíz do projeto
 ```bash
 # Clone este repositório
 git clone https://github.com/thalesluiz45/LittleBoxd
