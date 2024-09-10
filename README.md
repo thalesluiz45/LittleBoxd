@@ -31,6 +31,7 @@ git clone https://github.com/thalesluiz45/LittleBoxd
 cd LittleBoxd
 ```
 ## Para executar o programa:
+- Você pode baixar o arquivo jar executável clicando [aqui](https://drive.google.com/uc?export=download&id=1BFFaW-fQoephQt7HGgLPqKWTA2e7gV3q)
 - Copie o caminho do arquivo `LittleBoxd.jar` e execute o seguinte comando:
 ```bash
 java -jar caminho_do_arquivo
