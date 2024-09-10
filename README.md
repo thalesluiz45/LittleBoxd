@@ -41,4 +41,4 @@ cd LittleBoxd
 java -jar caminho_do_arquivo
 ```
 ##
-<p align="center">Made by José Thomaz & Thales Luiz</p>
+<p align="center">Made by <a href="https://github.com/Thoomaz">José Thomaz</a> & <a href="https://github.com/thalesluiz45">Thales Luiz</a> </p>
