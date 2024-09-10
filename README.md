@@ -6,7 +6,7 @@
 </p>
 
 ##
-<p align="center">LittleBoxd é uma aplicação desenvolvida em Java que permite a avaliação e a criação de listas de filmes</p>
+<p align="center">LittleBoxd é uma aplicação desenvolvida em Java que permite a avaliação de filmes e criação de listas</p>
 
 ##
 
