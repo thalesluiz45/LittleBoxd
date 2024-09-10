@@ -40,3 +40,5 @@ cd LittleBoxd
 ```bash
 java -jar caminho_do_arquivo
 ```
+##
+<p align="center">Made by José Thomaz & Thales Luiz</p>
