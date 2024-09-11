@@ -108,7 +108,7 @@ java -jar caminho_do_arquivo
       <td align="center">Ver Lista</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://i.imgur.com/EHcjONB.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/gJwQPHH.jpg" /></td>
       <td align="center"><img src="https://i.imgur.com/2PePjOK.jpg" /></td>
     </tr>
   </table>
