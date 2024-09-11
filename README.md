@@ -22,9 +22,6 @@
 - Tela de avaliações gerais com avaliações dos usuários cadastrados
 - Tela de listas para criar, editar ou excluir listas de filmes
 
-# 📂 Estrutura do projeto
-<img src="https://i.imgur.com/U4tBUwS.jpg"/>
-
 # ℹ Como configurar e executar o projeto
 ## Para testar os códigos:
 - __Clone este repositório__, para isto você vai precisar do [Git](https://git-scm.com) instalado em seu computador
@@ -46,6 +43,87 @@ cd LittleBoxd
 ```bash
 java -jar caminho_do_arquivo
 ```
+
+# 📂 Estrutura do projeto
+<img src="https://i.imgur.com/U4tBUwS.jpg"/>
+
+## Interface do projeto
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">Login</td>
+      <td align="center">Menu</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/iwuiGtn.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/m8A6Xa7.jpg" /></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">Filmes</td>
+      <td align="center">Lista</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/xkuxQrV.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/EHcjONB.jpg" /></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">Adicionar Filme</td>
+      <td align="center">Editar Filme</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/dCga4CN.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/VyfjWJc.jpg" /></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">Ver Filme</td>
+      <td align="center">Avaliações Gerais</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/q9brM9t.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/CLQ28rO.jpg" /></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">Adicionar Lista</td>
+      <td align="center">Ver Lista</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/EHcjONB.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/CLQ28rO.jpg" /></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">Editar Lista</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/vopJDUl.jpg" /></td>
+    </tr>
+  </table>
+</p>
 
 ##
 
