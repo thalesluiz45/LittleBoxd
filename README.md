@@ -22,6 +22,9 @@
 - Tela de avaliações gerais com avaliações dos usuários cadastrados
 - Tela de listas para organização de filmes
 
+# 📂 Estrutura do projeto
+<img src="https://i.imgur.com/U4tBUwS.jpg"/>
+
 # ℹ Como configurar e executar o projeto
 ## Para testar os códigos:
 - __Clone este repositório__, para isto você vai precisar do [Git](https://git-scm.com) instalado em seu computador
