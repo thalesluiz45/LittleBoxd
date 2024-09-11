@@ -29,6 +29,7 @@
 ## Para testar os códigos:
 - __Clone este repositório__, para isto você vai precisar do [Git](https://git-scm.com) instalado em seu computador
 - Os arquivos utilizados para teste de persistência podem ser encontrados na pasta raíz do projeto
+  
 ```bash
 # Clone este repositório
 git clone https://github.com/thalesluiz45/LittleBoxd
@@ -36,12 +37,16 @@ git clone https://github.com/thalesluiz45/LittleBoxd
 # Acesse o repositório
 cd LittleBoxd
 ```
+
 ## Para executar o programa:
 - Para executar o projeto você vai precisar do [Java](https://www.java.com/pt-BR/download/) na versão 17 ou superior
 - Você pode baixar o arquivo jar executável clicando [aqui](https://drive.google.com/uc?export=download&id=1BFFaW-fQoephQt7HGgLPqKWTA2e7gV3q)
 - Copie o caminho do arquivo `LittleBoxd.jar` e execute o seguinte comando:
+  
 ```bash
 java -jar caminho_do_arquivo
 ```
+
 ##
+
 <p align="center">Made by <a href="https://github.com/Thoomaz">José Thomaz</a> & <a href="https://github.com/thalesluiz45">Thales Luiz</a> </p>
