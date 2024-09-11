@@ -18,9 +18,9 @@
 
 # 💻 Funcionalidades
 - Tela de login e cadastro para multiplos usuários
-- Tela de filmes para avaliações com comentários e nota
+- Tela de filmes para criar, editar ou excluir avaliações com comentários e nota
 - Tela de avaliações gerais com avaliações dos usuários cadastrados
-- Tela de listas para organização de filmes
+- Tela de listas para criar, editar ou excluir listas de filmes
 
 # 📂 Estrutura do projeto
 <img src="https://i.imgur.com/U4tBUwS.jpg"/>
