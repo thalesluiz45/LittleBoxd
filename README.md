@@ -109,7 +109,7 @@ java -jar caminho_do_arquivo
     </tr>
     <tr>
       <td align="center"><img src="https://i.imgur.com/EHcjONB.jpg" /></td>
-      <td align="center"><img src="https://i.imgur.com/CLQ28rO.jpg" /></td>
+      <td align="center"><img src="https://i.imgur.com/2PePjOK.jpg" /></td>
     </tr>
   </table>
 </p>
