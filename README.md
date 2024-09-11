@@ -47,7 +47,7 @@ java -jar caminho_do_arquivo
 # 📂 Estrutura do projeto
 <img src="https://i.imgur.com/U4tBUwS.jpg"/>
 
-## Interface do projeto
+# 🎨 Interface do projeto
 
 <p align="center">
   <table align="center">
